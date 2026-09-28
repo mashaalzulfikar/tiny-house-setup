@@ -15,6 +15,7 @@ Where’s better to get the best food than in your kitchen? In order to have a f
 
 <figure>
 <figcaption><b>Kitchen Appliances 1.0.</b></figcaption>
+  
 | Kitchen Appliances | Brand & Model | Description |
 | -------- | -------- | -------- |
 | Refrigerator | West Bend WBRT73B | A compact, 7.4 cubic foot apartment-size refrigerator. Lay it down on its side or back in a compact SUV and you can move it from one home to another. |
