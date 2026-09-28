@@ -14,10 +14,9 @@ A bedroom, bathroom, and kitchen are must in a home, as they are the absolute co
 Where’s better to get the best food than in your kitchen? In order to have a functional kitchen, I think these appliances are a must:
 
 <figure>
-
+<figcaption><b>Kitchen Appliances 1.0.</b></figcaption>
 | Kitchen Appliances | Brand & Model | Description |
 | -------- | -------- | -------- |
 | Refrigerator | West Bend WBRT73B | A compact, 7.4 cubic foot apartment-size refrigerator. Lay it down on its side or back in a compact SUV and you can move it from one home to another. |
 
-<figcaption>Kitchen Appliances 1.0.</figcaption>
 </figure>
